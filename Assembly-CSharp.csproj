@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D2B86A29-5A44-BCEE-7377-EAF8C46123C4}</ProjectGuid>
+    <ProjectGuid>{F8ECB9BC-1137-B22C-1502-65A59763932C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Bullet Controller.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\Singleplayer\UIBillboard.cs" />
     <Compile Include="Assets\Scripts\Camea Tracker.cs" />
   </ItemGroup>
   <ItemGroup>
